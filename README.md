@@ -1,1 +1,1 @@
-# Akili-Bandia-Lab
+# AkiliBandia Lab
